@@ -5,3 +5,4 @@ Research on using POS tagging to inform a custom tailored Spanish verb study gui
 ### Motivations and how to use it
 I documented my motivations and procedure in the following blog post: THIS
 
+![picture](http://statethatiamin.onlythisrose.com/SpanishVerbPlot.png)
